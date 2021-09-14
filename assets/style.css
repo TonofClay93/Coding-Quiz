@@ -1,0 +1,16 @@
+/*Initial boddy styles*/
+header {
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
