@@ -22,11 +22,11 @@ answers.style.display = "none";
 highScorePage.style.display = "none";
 //questions for the quiz
 var questions = [
-    { q: 'A very useful tool used during development and debugging for printing content to the debugger is:', a1: 'javascript', a2: 'terminal/bash', a3: 'for loops', a4: 'C:console.log'},
-    { q: 'Commonly used data typed DO NOT include?', a1: 'strings', a2: 'booleans', a3: 'C:alerts', a4: 'numbers' },
-    { q: 'The condition within an if/else statement is enclosed with what?', a1: 'quotes', a2: 'curly brackets', a3: 'C:parenthesis', a4: 'square brackets'},
-    { q: 'What can arrays within JavaScript be used to store?', a1: 'numbers and strings', a2: 'other arrays', a3: 'booleans', a4: 'C:all of the above'},
-    { q: 'String values must be inclosed within ____ when being assigned to variables', a1: 'commas', a2: 'curly brackets', a3: 'C:quotes', a4: 'parenthesis'}
+    { q: 'A very useful tool used during development and debugging for printing content to the debugger is:', a1: 'javascript', a2: 'terminal/bash', a3: 'for loops', a4: 'console.log'},
+    { q: 'Commonly used data typed DO NOT include?', a1: 'strings', a2: 'booleans', a3: 'alerts', a4: 'numbers' },
+    { q: 'The condition within an if/else statement is enclosed with what?', a1: 'quotes', a2: 'curly brackets', a3: 'parenthesis', a4: 'square brackets'},
+    { q: 'What can arrays within JavaScript be used to store?', a1: 'numbers and strings', a2: 'other arrays', a3: 'booleans', a4: 'all of the above'},
+    { q: 'String values must be inclosed within ____ when being assigned to variables', a1: 'commas', a2: 'curly brackets', a3: 'quotes', a4: 'parenthesis'}
 ];
 //function to start the quiz
 function startQuiz() {

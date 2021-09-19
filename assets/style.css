@@ -11,6 +11,7 @@ body {
 }
 
 .bodystyle {
+    background-size: fixed;
     background-image: url(./images/preview-83721-73b2ffab8d22cad99c5c66f9b51b4993-high.jpg);
 }
 
